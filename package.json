@@ -1,0 +1,19 @@
+{
+  "name": "ultralight",
+  "version": "1.0.0",
+  "description": "portfolio for class",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Scott Barkley",
+  "license": "GPL3"
+  "devDependencies": {
+    "lite-server": "^2.3"
+  }
+}
